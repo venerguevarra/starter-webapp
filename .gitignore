@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,intellij,macos,linux,visualstudio,visualstudiocode,windows
 
 ### Eclipse ###
+./target
 .metadata
 bin/
 tmp/
@@ -687,3 +688,4 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij,macos,linux,visualstudio,visualstudiocode,windows
+/target/
