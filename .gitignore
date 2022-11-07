@@ -2,6 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,intellij,macos,linux,visualstudio,visualstudiocode,windows
 
 ### Eclipse ###
+.project
+.classpath
 ./target
 .metadata
 bin/
